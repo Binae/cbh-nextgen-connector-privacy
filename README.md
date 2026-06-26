@@ -81,4 +81,4 @@ here with a new "Last updated" date.
 
 ## Contact
 
-Questions about this policy can be directed to **[CONTACT EMAIL]**.
+Questions about this policy can be directed to **obieze.apex@gmail.com**.
